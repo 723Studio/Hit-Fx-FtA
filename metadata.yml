@@ -1,0 +1,7 @@
+name: "HitFX - FtA edition"
+version: "1.0.0"
+author: "Finnik"
+description: "HitFX mod by Mistar Red, adapted for From the Ashes"
+id: HitFX-FtA
+isMaster: false
+master: From the Ashes
